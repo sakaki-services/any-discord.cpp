@@ -1,0 +1,6 @@
+{
+    dpp = {
+        __enabled = false,
+        __requirestr = "dpp"
+    }
+}
